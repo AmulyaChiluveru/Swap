@@ -1,2 +1,0 @@
-# Swap
-By Amulya Chiluveru
